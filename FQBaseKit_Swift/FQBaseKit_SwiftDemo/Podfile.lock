@@ -1,0 +1,16 @@
+PODS:
+  - BFKit-Swift (5.0.0)
+
+DEPENDENCIES:
+  - BFKit-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BFKit-Swift
+
+SPEC CHECKSUMS:
+  BFKit-Swift: 936146a359a9313ac018befcebfff76c5c3b43d8
+
+PODFILE CHECKSUM: dc06ee06c855d41511579aab8b008e4d02845eaf
+
+COCOAPODS: 1.7.0
